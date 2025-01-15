@@ -17,8 +17,8 @@ To install Whereami-Rust, you need to have Rust and Cargo installed on your syst
 Once you have Rust installed, you can clone the repository and build the project:
 
 ```sh
-git clone https://github.com/shawnstephens517/whereami-rust.git
-cd whereami-rust
+git clone https://github.com/shawnstephens517/whereami-rs.git
+cd whereami-rs
 cargo build --release
 ```
 
